@@ -5,4 +5,4 @@
 
 
 -->
-[![Linkedin: rahulvaidun](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulvaidun/)](https://www.linkedin.com/in/rahulvaidun/)
+[![Linkedin: rahulvaidun](https://img.shields.io/badge/-rahulvaidun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulvaidun/)](https://www.linkedin.com/in/rahulvaidun/)
