@@ -5,7 +5,7 @@
 
 -->
 # Hi there 👋
-I'm a student at University of California at Santa Cruz and I'm studying Computer science. I'm currently looking for a Software Engineering Internship for Summer 2022. I mainly code in Python, C, Javascript, and Java. I'm interested in web development and am proficient in React.js and am currently learning other javascript frameworks such as Vue and Svelte. 
+I'm a student at University of California at Santa Cruz and I'm studying Computer science. I am currently interning as an Engineer at Salesforce. I mainly code in Python, C, Javascript, and Java. I'm interested in web development and am proficient in React.js and am currently learning other javascript frameworks such as Vue and Svelte. 
 
 
 ### Social Media!
