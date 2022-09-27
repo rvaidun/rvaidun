@@ -10,4 +10,4 @@ I'm a student at University of California at Santa Cruz and I'm studying Compute
 
 ### Social Media!
 [![Linkedin: rahulvaidun](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulvaidun/)
-[![Instagram: rahulvaidun](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/rahulvaidun/](https://www.instagram.com/rahulvaidun/)
+[![Instagram: rahulvaidun](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rahulvaidun/)
