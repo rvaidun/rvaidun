@@ -5,7 +5,7 @@
 
 -->
 # Hi there 👋
-I'm a student at University of California at Santa Cruz and I'm studying Computer science. I'm also looking for a Software Engineering Internship/New Grad role for Summer 2023.I mainly code in Python, C, Javascript, and Java. I'm interested in web development and am proficient in React.js and am currently learning other javascript frameworks such as Vue and Svelte. 
+I'm a new grad from University of California at Santa Cruz and I'm studying Computer science. I'm also looking for a Software Engineering New Grad role. I mainly code in Python, C, Javascript, and Java. I'm interested in web development and am proficient in React.js and am currently learning other javascript frameworks such as Vue and Svelte. 
 
 
 ### Social Media!
