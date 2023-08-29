@@ -5,9 +5,13 @@
 
 -->
 # Hi there 👋
-I'm a new grad from University of California at Santa Cruz and I'm studying Computer science. I'm also looking for a Software Engineering New Grad role. I mainly code in Python, C, Javascript, and Java. I'm interested in web development and am proficient in React.js and am currently learning other javascript frameworks such as Vue and Svelte. 
+Hey, I'm Rahul. I'm a developer and graduated from the [University of California at Santa Cruz](https://www.ucsc.edu/) with a B.S. in Computer Science in June 2022. I'm currently working as a contractor at [Texts](https://texts.com/) building a universal chat client to bring all of your messages in one inbox.
+
+I'm also working at SV Financials , automating giving rate quotes for client scenarios.
+Before Texts, I interned at [Mulesoft](https://www.mulesoft.com/) as a Solutions Engineer where I developed solutions and API's in Anypoint platform and created an enablement menu for the Channel Solution Engineer Team
+
+When I'm not at the computer I enjoy hiking, skiing, running, and playing table tennis
 
 
 ### Social Media!
 [![Linkedin: rahulvaidun](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulvaidun/)
-[![Instagram: rahulvaidun](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rahulvaidun/)
