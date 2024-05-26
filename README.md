@@ -4,6 +4,10 @@
 
 
 -->
+```bash
+➜  ~ echo i am $(whoami)
+i am rahulvaidun
+```
 # Hi there 👋
 Hey, I'm Rahul. I'm a developer and graduated from the [University of California at Santa Cruz](https://www.ucsc.edu/) with a B.S. in Computer Science in June 2022. I'm currently working as a contractor at [Texts](https://texts.com/) building a universal chat client to bring all of your messages in one inbox.
 
