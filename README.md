@@ -15,8 +15,9 @@ I'm also working at [SV Financials](https://www.svfinancials.com/) , automating 
 
 Before Doordash, I was working at [Experian](https://experian.com/) as a Software Engineer. I was working on a platform to help financial institutions deploy and manage their machine learning models in the cloud. I also worked on a product in the model risk management space which helped institutions meet compliance requirements for their models in various regions.
 
+Before Experian, I was working as a contractor at [Texts](https://texts.com/) building a universal chat client to bring all of your messages in one inbox. I reverse engineered the Instagram DM API and integrated it into the Texts platform. 
 
-Before Experian, I interned at [Mulesoft](https://www.mulesoft.com/) as a Solutions Engineer where I developed solutions and API's in Anypoint platform and created an enablement menu for the Channel Solution Engineer Team
+Before Texts, I interned at [Mulesoft](https://www.mulesoft.com/) as a Solutions Engineer where I developed solutions and API's in Anypoint platform and created an enablement menu for the Channel Solution Engineer Team
 
 When I'm not at the computer I enjoy hiking, skiing, running, and playing table tennis.
 
