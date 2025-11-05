@@ -9,7 +9,7 @@
 i am rahulvaidun
 ```
 # Hi there 👋
-Hey, I'm Rahul. I'm a developer and graduated from the [University of California at Santa Cruz](https://www.ucsc.edu/) with a B.S. in Computer Science in June 2023. I'm currently working at [Doordash](https://www.doordash.com/) as a Software Engineer. I am working on the Catalog build team to help onboard merchants in the New Verticals space onto the platform.
+Hey, I'm Rahul. I'm a developer and graduated from the [University of California at Santa Cruz](https://www.ucsc.edu/) with a B.S. in Computer Science in June 2023. I'm currently working at [DoorDash](https://www.doordash.com/) as a Software Engineer. I am working on the Catalog build team to help onboard merchants in the New Verticals space onto the platform.
 
 I'm also working at [SV Financials](https://www.svfinancials.com/) , automating giving rate quotes for client scenarios.
 
